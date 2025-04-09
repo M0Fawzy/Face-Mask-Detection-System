@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">909246102155-mtr94hfnstmf4i6stm6vdqa6520tlk9n.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mask-detector-3302b.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">909246102155</string>
+    <string name="google_api_key" translatable="false">AIzaSyAd47FhnFDUhNk-6qYpudKOSz5dWD3IpIo</string>
+    <string name="google_app_id" translatable="false">1:909246102155:android:a646ec8fab560caa62f28e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAd47FhnFDUhNk-6qYpudKOSz5dWD3IpIo</string>
+    <string name="google_storage_bucket" translatable="false">mask-detector-3302b.appspot.com</string>
+    <string name="project_id" translatable="false">mask-detector-3302b</string>
+</resources>
